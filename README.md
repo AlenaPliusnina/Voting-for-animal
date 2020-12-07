@@ -2,9 +2,9 @@
 
     Сервера с которым приложение работало уже нет, поэтому на данный момент голосование не работает!!!!
 
-![Иллюстрация к проекту]https://github.com/AlenaPliusnina/Voting-for-animal_web-site/blob/master/screenshots/animals_main.png)
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Voting-for-animal_web-site/blob/master/screenshots/animals_main.png)
 
-![Иллюстрация к проекту]https://github.com/AlenaPliusnina/Voting-for-animal_web-site/blob/master/screenshots/results.png)
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/Voting-for-animal_web-site/blob/master/screenshots/results.png)
 
 Реализация:
 
